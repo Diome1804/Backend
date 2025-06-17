@@ -300,5 +300,18 @@
       "read": false
     }
   ],
-  "groups": [] 
+  "groups": [
+    {
+    "name": "tes",
+    "description": "ssss",
+    "members": [
+      "e71e"
+    ],
+    "adminId": "e71e",
+    "avatar": "",
+    "id": "1750173736218",
+    "createdAt": "2025-06-17T15:22:16.218Z",
+    "updatedAt": "2025-06-17T15:22:16.218Z"
+  }
+  ] 
 }
